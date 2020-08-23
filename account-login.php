@@ -66,7 +66,7 @@ require "header.php";
             <div class="custom-control custom-checkbox">
               <input class="custom-control-input" type="checkbox" checked id="remember-me">
               <label class="custom-control-label" for="remember-me">Remember me</label>
-            </div><a class="navi-link" href="account-password-recovery.html">Forgot password?</a>
+            </div>
           </div>
         </div>
         <div class="wizard-footer text-right">
