@@ -4,14 +4,6 @@ require "header.php";
 <!-- Page Title-->
 <div class="page-title d-flex" aria-label="Page title" style="background-image: url(img/page-title/shop-pattern.jpg);">
   <div class="container text-left align-self-center">
-    <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a>
-        </li>
-        <li class="breadcrumb-item"><a href="account-orders.html">Account</a>
-        </li>
-      </ol>
-    </nav>
     <h1 class="page-title-heading">Login / Register Account</h1>
   </div>
 </div>
@@ -114,10 +106,6 @@ require "header.php";
     </div>
   </div>
 </div>
-<!-- Footer-->
-<?php
-require "footer.php";
-?>
 </body>
 
 </html>
